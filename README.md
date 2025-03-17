@@ -1,5 +1,6 @@
-# Exno:1
-Data Cleaning Process
+# Exno:1   Data Cleaning Process
+## Name: Devashri S
+## Reg no: 212224040063
 
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
